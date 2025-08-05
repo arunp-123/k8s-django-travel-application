@@ -2,7 +2,9 @@ django-travel-app creation
 
 $ kubectl apply -f django-travel-app.yml
 
-django-travel-app ingress
+For host based ﻿Routing Rule added the ingress.yml
+
+django-travel-app ingress creation
 
 $ kubectl apply -f ingress.yml
 
